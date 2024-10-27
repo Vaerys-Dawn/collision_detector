@@ -1,0 +1,30 @@
+
+d
+java:S1192."GDefine a constant instead of duplicating this literal "Entity" 4 times.(™†Îå8¡ºÌ¦ª2
+V
+java:S3516D"9Refactor this method to not always return the same value.(úª‰é8ÒºÌ¦ª2
+W
+java:S1118":Add a private constructor to hide the implicit public one.(üù˜þ8ÓºÌ¦ª2
+V
+java:S3400N"9Remove this method and declare a constant for this value.(”·³›8ÙºÌ¦ª2
+X
+java:S1172M"6Remove these unused method parameters "context", "id".(é¬ð¡øÿÿÿÿ8ÙºÌ¦ª2
+V
+java:S3400R"9Remove this method and declare a constant for this value.(”·³›8ÙºÌ¦ª2
+\
+java:S1172Q":Remove these unused method parameters "context", "entity".(íñ¦âÿÿÿÿÿ8ÙºÌ¦ª2
+K
+java:S1172U")Remove this unused method parameter "id".(¬ƒÚØùÿÿÿÿ8ÚºÌ¦ª2
+J	java:S108W")Either remove or fill this block of code.(ÄŸ¨Ýÿÿÿÿÿ8ÚºÌ¦ª2
+J
+java:S1172^".Remove this unused method parameter "builder".(’àÐT8ÚºÌ¦ª2
+V
+java:S3400d"9Remove this method and declare a constant for this value.(”·³›8ÚºÌ¦ª2
+h
+java:S1172c"KRemove these unused method parameters "context", "pos1", "pos2", "command".(Æ­é”8ÚºÌ¦ª2
+P
+java:S1144M".Remove this unused private "editViaID" method.(é¬ð¡øÿÿÿÿ8ÜºÌ¦ª2
+R
+java:S1144U"0Remove this unused private "removeViaID" method.(¬ƒÚØùÿÿÿÿ8ÜºÌ¦ª2
+N
+java:S1144^"2Remove this unused private "getIDProvider" method.(’àÐT8ÜºÌ¦ª2

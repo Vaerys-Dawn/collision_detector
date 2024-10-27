@@ -1,0 +1,37 @@
+
+M
+java:S3740í"/Provide the parametrized type for this generic.(à°²Ü8µéêĞª2
+M
+java:S3740ò"/Provide the parametrized type for this generic.(îŸ‡€8µéêĞª2
+k
+java:S1192B"IDefine a constant instead of duplicating this literal "Function" 3 times.(Ùëãüÿÿÿÿ8¶éêĞª2
+f
+java:S1192L"IDefine a constant instead of duplicating this literal "Cooldown" 3 times.(î–ÜŸ8¶éêĞª2
+d
+java:S1192H"GDefine a constant instead of duplicating this literal "Height" 3 times.(¥¬ÒÖ8¶éêĞª2
+h
+java:S1192J"FDefine a constant instead of duplicating this literal "Width" 3 times.(úœê“úÿÿÿÿ8¶éêĞª2
+r
+java:S1104 "UMake ERROR_POS a static final constant or non-public and provide accessors if needed.(öº¸‡8·éêĞª2
+L
+java:S1444 "/Make this "public static ERROR_POS" field final(öº¸‡8·éêĞª2
+G
+java:S2629À"$Invoke method(s) only conditionally.(“á‘–ÿÿÿÿÿ8¸éêĞª2
+q
+java:S3008 "TRename this field "ERROR_POS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öº¸‡8ñéêĞª2
+H
+java:S2160"+Override the "equals" method in this class.(”Á¹ë8òéêĞª2
+T
+java:S1135"2Complete the task associated to this TODO comment.(õ¼ÉÏüÿÿÿÿ8³®Øùª2
+O
+java:S1135"2Complete the task associated to this TODO comment.(îÊ€®8”íßùª2
+O
+java:S1135"2Complete the task associated to this TODO comment.(•…ù»8”íßùª2
+O
+java:S1135"2Complete the task associated to this TODO comment.(Ûê‡8”íßùª2
+O
+java:S1135"2Complete the task associated to this TODO comment.(«Ğîì8”íßùª2
+O
+java:S1135"2Complete the task associated to this TODO comment.(¶½×Í8”§åùª2
+D
+java:S4738ı"!Use "java.util.Set.of()" instead.(³šá£ûÿÿÿÿ8¯êêĞª2
